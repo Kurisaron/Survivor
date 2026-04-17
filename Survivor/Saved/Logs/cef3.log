@@ -1,0 +1,16 @@
+[20340:28068:0416/182614.201:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20340:28068:0416/182614.256:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16216:14356:0416/182625.939:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-18C05691528086642996123D5D1583FB will be ignored
+[20340:23336:0416/182626.402:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[20340:28068:0416/182626.522:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[20340:28068:0416/182626.522:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[20340:23336:0416/182626.530:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[20340:28068:0416/182626.530:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[20340:28068:0416/182626.530:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[27128:8332:0416/182836.014:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-306532461FF04B7AF4E25A65814A4646 will be ignored
+[19000:25856:0416/182836.025:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19000:25856:0416/182836.025:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2764:8656:0416/200929.041:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2764:8656:0416/200936.572:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2764:8656:0416/200939.406:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[20340:28068:0416/211901.185:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
